@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ༄༅། །ངེས་ཤེས་རིན་པོ་ཆེའི་སྒྲོན་མེ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། མཁན་པོ་ཀུན་དཔལ།
+  sku: LEK-PHI-059-2
+  layers:
+  - book_title
+  - author
+  - chapter_title
+web_metadata:
+  title:
+    en: The Beacon of Certainty
+    bo: ངེས་ཤེས་རིན་པོ་ཆེའི་སྒྲོན་མེ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 59-2
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༥༩ – ༢
+  author:
+    en: Khenpo Kunpal
+    bo: མཁན་པོ་ཀུན་དཔལ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-059-2
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-059-2.epub
+  description:
+    en: ''
+    bo: ''
