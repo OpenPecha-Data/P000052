@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000052
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ངེས་ཤེས་རིན་པོ་ཆེའི་སྒྲོན་མེ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། མཁན་པོ་ཀུན་དཔལ།
-  sku: LEK-PHI-059-2
   layers:
   - book_title
   - author
   - chapter_title
+  id: LEK-PHI-059-2
 web_metadata:
   title:
     en: The Beacon of Certainty
